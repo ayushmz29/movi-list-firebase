@@ -2,6 +2,8 @@
 
 React project where users can Add and Delete their Favourite Movies and it uses the Firebase Realtime Database as DB.
 
+LIVE_DEMO : https://movie-list-firebase-ayushmz29.netlify.app/
+
 # Usage
 
 ```
