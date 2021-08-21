@@ -1,6 +1,6 @@
-# Breaking Bad Cast Web App
+# Add Favourite Movie into Firebase - Demo Web App
 
-React project that uses the [breaking bad api](https://breakingbadapi.com/documentation) to show and filter characters from the show
+React project where users can Add and Delete their Favourite Movies and it uses the Firebase Realtime Database as DB.
 
 # Usage
 
